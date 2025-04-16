@@ -1,4 +1,4 @@
-# Intent-Centric Computing Whitepapers
+# Intent-Centric Whitepapers by Axes Labs
 
 This repository contains research whitepapers focused on intent-centric computing and its applications in modern software development.
 
